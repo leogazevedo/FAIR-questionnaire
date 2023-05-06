@@ -1,6 +1,6 @@
 # FAIR Questionnaire Supplemental Material
 
-**Authors**: Leonarod Guerreiro Azevedo, Julio Tesolin, Gabriel Banaggia, and Renato Cerqueira
+**Authors**: Leonardo Guerreiro Azevedo, Julio Tesolin, Gabriel Banaggia, and Renato Cerqueira
 
 **Date**: May 5th, 2023
 
