@@ -1,5 +1,8 @@
 # FAIR Questionnaire Supplemental Material
 
+Authors: Leonarod Guerreiro Azevedo, Julio Tesolin, Gabriel Banaggia, and Renato Cerqueira
+Date: May 5th, 2023
+
 Supplemental material of the paper published in DaMaLOS, including:
 
 - [FAIR characterization questionnaire](https://github.com/leogazevedo/FAIR-questionnaire/blob/main/FAIR-characterization-questionnaire.pdf)
