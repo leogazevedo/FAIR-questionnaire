@@ -1,4 +1,4 @@
-# FAIR-questionnaire
+# FAIR Questionnaire Supplemental Material
 
 Supplemental material of the paper published in DaMaLOS, including:
 
